@@ -1,4 +1,5 @@
-# iOGeminis
+# iOGeminis®
+# Google.
 <!DOCTYPE html>
 <html lang="es">
 <head>
